@@ -22,7 +22,7 @@
         "fakes"
     ],
     "dependencies": {
-        "@graphql-codegen/plugin-helpers": "^1.8.1",
+        "@graphql-codegen/plugin-helpers": "1.10.0",
         "casual": "^1.6.2"
     },
     "peerDependencies": {
